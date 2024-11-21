@@ -1,2 +1,2 @@
-nombre = "Hola Pablo Paez";
+nombre = "Hola Lobo";
 print(nombre);
