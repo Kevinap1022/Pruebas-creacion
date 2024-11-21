@@ -1,6 +1,6 @@
 
 string nombre = "Kevin";
-string apellido = "Alfonso Omar";
+string apellido = " Salamandra ";
 string saludo = saludar(nombre, apellido);
 Console.WriteLine(saludo);
 
